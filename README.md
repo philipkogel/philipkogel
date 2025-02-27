@@ -1,9 +1,9 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-## 🚀 About Me
+## 👾 About Me
 
-I am Philip Kogel, a Full Stack Developer with 5+ years of experience in modern web technologies.
-My journey in tech is driven by a love for creating efficient, scalable solutions and continuously learning new skills.
+I am Philip Kogel, a Full Stack Developer with 5+ years of diving deep into the world of modern web tech. My coding journey is fueled by an obsession with crafting efficient, scalable solutions that make both users and business happy. I'm that dev who
+thrives on solving complex technical challenges, especially those impacting business processes and revenue. Always eager to learn and apply new technologies to drive innovation.
 
 👨‍💻 full stack engineer | 🌐 web enthusiast | 🚀 tech explorer
 
@@ -26,6 +26,7 @@ My journey in tech is driven by a love for creating efficient, scalable solution
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![cypress](https://img.shields.io/badge/Cypress-94977c?style=for-the-badge&logo=cypress&logoColor=white)
 ![expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=FFFFFF)
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
